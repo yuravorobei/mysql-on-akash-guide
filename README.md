@@ -1,0 +1,1 @@
+# mysql-on-akash-guide
