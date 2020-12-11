@@ -374,7 +374,7 @@ You can view your application logs to debug issues or watch progress using `akas
 ```
   $ akash provider service-logs --node "$AKASH_NODE" --owner "$ACCOUNT_ADDRESS" \
   --dseq "$DSEQ" --gseq 1 --oseq $OSEQ --provider "$PROVIDER" \
-  --service web \
+  --service db \
 ```
 
 You should see a response similar to this:
